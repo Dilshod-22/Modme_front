@@ -1,4 +1,6 @@
 # -
+# Deploy link
+https://647efc7192530100a44cd080--peppy-queijadas-912e6b.netlify.app/Dashboard
 
 This template should help get you started developing with Vue 3 in Vite.
 
